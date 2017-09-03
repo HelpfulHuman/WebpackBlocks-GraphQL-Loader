@@ -16,3 +16,5 @@ function graphql () {
     },
   });
 }
+
+module.exports = graphql;

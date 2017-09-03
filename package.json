@@ -4,7 +4,7 @@
   "description": "Sets up the graphql-tag/loader for webpack blocks.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": ""
   },
   "repository": {
     "type": "git",

@@ -1,0 +1,30 @@
+{
+  "name": "webpack-blocks-graphql",
+  "version": "1.0.0",
+  "description": "Sets up the graphql-tag/loader for webpack blocks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelpfulHuman/WebpackBlocks-GraphQL-Loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "blocks",
+    "webpack",
+    "blocks",
+    "graphql",
+    "graphql-tag"
+  ],
+  "author": "Nick Glenn <nick@helpfulhuman.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HelpfulHuman/WebpackBlocks-GraphQL-Loader/issues"
+  },
+  "homepage": "https://github.com/HelpfulHuman/WebpackBlocks-GraphQL-Loader#readme",
+  "dependencies": {
+    "graphql-tag": "^2.4.2"
+  }
+}

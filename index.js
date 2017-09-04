@@ -5,7 +5,7 @@
  */
 function graphql () {
   return (ctx) => ({
-    modules: {
+    module: {
       loaders: [
         {
           test: /\.(graphql|gql)$/,
